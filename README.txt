@@ -1,1 +1,3 @@
 1. gitdemo
+
+Some changes on README.txt test that gitk shows something on it...
